@@ -15,8 +15,8 @@ def remove_third_char(string: str) -> str:
     chaine2=[]
     for c in string:
         i+=1
-        if i!==2
-        chaine2=element
+        if i!=2:
+            chaine2=element
     return chaine2
     
         
